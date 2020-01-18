@@ -1,0 +1,74 @@
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.dropdown-toggle {
+    white-space: nowrap;
+}
+
+body {
+    background-color: rgb(241, 237, 237);
+}
+
+
+.col-md-4, .col-md-7 {
+    background-color: #ffffff;
+    position: relative;
+    top: 75px;
+    margin-bottom: 75px;
+    }
+h1 {
+    font-size: 30pt;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: rgb(45, 167, 146);
+}
+.navbar-light .navbar-brand{
+    color: rgb(255, 255, 255);
+    font-size: 25pt;
+    padding: 30px 25px 30px 25px;
+    background-color: rgb(70, 226, 213);
+    margin-top: -10px;
+    margin-bottom: -10px;
+    position: relative;
+    left: -20px;
+}
+
+.card:hover{
+    border: solid 5px;
+    border-color: rgb(76, 199, 76);
+}
+p {
+    font-size: 15pt;
+    line-height: 2rem;
+}
+.col-md-4 {
+    margin-bottom: 200px;
+}
+.main-img{
+    width: 100%;
+
+}
+.titles-h4{
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: rgb(45, 167, 146);
+    text-align: center;
+    font-size: 15pt;
+
+}
+h2 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: rgb(45, 167, 146);
+    font-size: 20pt;
+    text-align: center;
+}
+.col-md-10 {
+    background-color: #ffffff;
+    position: relative;
+    top: 75px;
+    margin-bottom: 75px;
+}
+h6{
+    color: rgb(45, 167, 146);
+    font-size: 15pt;
+}
